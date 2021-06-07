@@ -7,7 +7,7 @@ Filip Gavalier, David Usvat, Ibrahim Muhamed, Chen Mae N. Pantua, Erkan Ahmed, I
 Python, MySQL
 
 ## Usage
-The main usage of this python script is to locate all possible charging stations in the are of Denmark. The location of each charging station comes in a csv file.
+The main usage of this python script is to locate all possible charging stations in the area of Denmark. The location of each charging station comes in a csv file.
 Furthermore, it can log an existing user in using MySQL database, as well as register a new user and store the information in the database. Using the user's information, the program then has an option to show user's personal consumption and status update on the charging of their vehicle.
 
 ## Requirements
